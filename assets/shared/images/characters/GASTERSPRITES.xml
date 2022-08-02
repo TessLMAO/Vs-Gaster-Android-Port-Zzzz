@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gasterSuperG.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Down0000" x="68" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Down0001" x="68" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Down0002" x="134" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Down0003" x="134" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Down0004" x="200" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Left0000" x="266" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Left0001" x="266" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Left0002" x="332" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Left0003" x="332" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Left0004" x="398" y="2" width="64" height="64"/>
+	<SubTexture name="Sing Right0000" x="2" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Right0001" x="2" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Right0002" x="68" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Right0003" x="68" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Right0004" x="134" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Up0000" x="200" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Up0001" x="200" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Up0002" x="266" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Up0003" x="266" y="68" width="64" height="64"/>
+	<SubTexture name="Sing Up0004" x="332" y="68" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0000" x="398" y="68" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0001" x="398" y="68" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0002" x="2" y="134" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0003" x="2" y="134" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0004" x="398" y="68" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0005" x="398" y="68" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0006" x="68" y="134" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0007" x="68" y="134" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0008" x="134" y="134" width="64" height="64"/>
+	<SubTexture name="TheDeathOfJads0009" x="134" y="134" width="64" height="64"/>
+</TextureAtlas>
