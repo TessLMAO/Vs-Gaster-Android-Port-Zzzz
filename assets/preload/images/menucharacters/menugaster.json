@@ -1,0 +1,11 @@
+{
+	"idle_anim": "lol",
+	"image": "menugaster",
+	"position": [
+		-280,
+		-80
+	],
+	"flipX": false,
+	"scale": 1.85,
+	"confirm_anim": "M Dad Idle"
+}
